@@ -1,11 +1,11 @@
 site_name: Reversa
-site_url: https://sandeco.github.io/reversa
-site_description: Transforme sistemas legados em especificações executáveis por agentes de IA.
-site_author: sandeco
-repo_url: https://github.com/sandeco/reversa
-repo_name: sandeco/reversa
+site_url: https://caiquecontarini.github.io/reversa/
+site_description: Framework de engenharia reversa para sistemas legados
+site_author: Caique Contarini
+repo_url: https://github.com/caiquecontarini/reversa
+repo_name: caiquecontarini/reversa
 edit_uri: edit/main/docs/
-copyright: '"Reversa" by sandeco'
+copyright: 'Reversa Framework'
 
 theme:
   name: material
